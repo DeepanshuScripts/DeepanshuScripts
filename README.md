@@ -62,6 +62,7 @@
   </a>
   <a href="mailto:init.deepanshu@gmail.com">
     <img src="https://img.shields.io/badge/-init.deepanshu%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/init.deepanshu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://your-website.com">
     <img src="https://img.shields.io/badge/-Your%20Website-lightgrey?style=for-the-badge" alt="Website">
