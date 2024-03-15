@@ -55,33 +55,32 @@ I'm a passionate software developer with expertise in building scalable web appl
 #### Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) 
-![Django Rest Framework](https://img.shields.io/badge/-Django%20Rest%20Framework-000?style=for-the-badge&logo=django-restframework)
 ![Microservice](https://img.shields.io/badge/-Microservice-000?style=for-the-badge&logo=microservice)
-![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=redis)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?style=for-the-badge&logo=rabbitmq)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 
 #### Python Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Django Rest Framework](https://img.shields.io/badge/-Django%20Rest%20Framework-000?style=for-the-badge&logo=djangorestframework)
-![Flask](https://img.shields.io/badge/Flask-3670A0?style=for-the-badge&logo=flask&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 
 #### Database
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-E3BC9A?style=for-the-badge&logo=postgresql&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E3BC9A?style=for-the-badge&logo=postgresql&logoColor=blue)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Web Sever
-![Apache](https://img.shields.io/badge/-Apache-000?style=for-the-badge&logo=apache)
-![Nginx](https://img.shields.io/badge/-Nginx-000?style=for-the-badge&logo=nginx)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 #### CI/CD
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
 
 #### Version Control
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=gitlab)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 #### Cloud Platform
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -89,7 +88,6 @@ I'm a passionate software developer with expertise in building scalable web appl
 ![E2E](https://img.shields.io/badge/-E2E-000?style=for-the-badge&logo=e2e)
 
 #### DevOps Tools
-![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=AWS)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=kubernetes)
     
@@ -100,8 +98,8 @@ I'm a passionate software developer with expertise in building scalable web appl
   <!--  Stats  -->
 
   <div align="center">
-    <a href="https://github.com/drcount-root">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=drcount-root&show_icons=true&line_height=27&count_private=true&title_color=d8ff00&text_color=00b6da&icon_color=d8ff00&bg_color=000000&hide_border=true" alt="Subham's GitHub Stats" />
+    <a href="https://github.com/DeepanshuScripts">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeepanshuScripts&show_icons=true&line_height=27&count_private=true&title_color=d8ff00&text_color=00b6da&icon_color=d8ff00&bg_color=000000&hide_border=true" alt="Deepanshu's GitHub Stats" />
     </a>
   </div>
   
@@ -111,7 +109,7 @@ I'm a passionate software developer with expertise in building scalable web appl
   <!--  Most Used Languages  -->
 
   <div align="center">
-   <img alt="Subham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drcount-root&langs_count=8&count_private=true&layout=compact&title_color=d8ff00&text_color=00b6da&icon_color=d8ff00&bg_color=000000&hide_border=true"/>
+   <img alt="Deepanshu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanshuScripts&langs_count=8&count_private=true&layout=compact&title_color=d8ff00&text_color=00b6da&icon_color=d8ff00&bg_color=000000&hide_border=true"/>
   </div>
   
   <hr>
@@ -120,7 +118,7 @@ I'm a passionate software developer with expertise in building scalable web appl
   <!-- Streak -->
 
   <div align = "center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=drcount-root&theme=highcontrast&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepanshuScripts&theme=highcontrast&hide_border=true"/>
   </div>
   
   <hr>
@@ -129,22 +127,22 @@ I'm a passionate software developer with expertise in building scalable web appl
   <!--  The Rainbow Stats Bar  -->
 
   <div align="center">
-    <img src="https://github.com/drcount-root/drcount-root/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <img src="https://github.com/DeepanshuScripts/DeepanshuScripts/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
   </div>
   
   <!--  Commit Graph  -->
   
-  [![Subham's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=drcount-root&bg_color=040404&color=0ac0e0&line=ffffff&point=b4f123&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Deepanshu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DeepanshuScripts&bg_color=040404&color=0ac0e0&line=ffffff&point=b4f123&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <hr>
   
   
   <!--  The contribution snake  -->
   
-  <!--   ![Snake animation](https://github.com/drcount-root/drcount-root/blob/output/github-contribution-grid-snake.svg) -->
+  <!--   ![Snake animation](https://github.com/DeepanshuScripts/DeepanshuScripts/blob/output/github-contribution-grid-snake.svg) -->
   
   <div align = "center">
-    <img src = "https://github.com/drcount-root/drcount-root/blob/output/github-contribution-grid-snake.svg" width = 100%/>
+    <img src = "https://github.com/DeepanshuScripts/DeepanshuScripts/blob/output/github-contribution-grid-snake.svg" width = 100%/>
   </div>
   
   <hr>
@@ -153,7 +151,7 @@ I'm a passionate software developer with expertise in building scalable web appl
   <!--  Profile views  -->
   
   <div align="center">
-    <img src = "https://komarev.com/ghpvc/?username=drcount-root&color=blueviolet&style=flat" />
+    <img src = "https://komarev.com/ghpvc/?username=DeepanshuScripts&color=blueviolet&style=flat" />
   </div>
 
   
@@ -168,7 +166,7 @@ I'm a passionate software developer with expertise in building scalable web appl
 
 
 <!--
-**drcount-root/drcount-root** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DeepanshuScripts/DeepanshuScripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
