@@ -43,10 +43,8 @@ I'm a passionate software developer with expertise in building scalable web appl
 
 <div align="center">
   
-  <h1 align="center">Hi 👋 I am Subham</h1>
-  <h3 align="center">I am a passionate front end developer & I understand how backend system works</h3>
-
-  <!-- <h4 align="center">🍃 I’m currently learning Rust :crab:🍃</h4> -->
+  <h1 align="center">Hello, I'm Deepanshu Verma 👋</h1>
+  <h3 align="center">I'm a passionate software developer with expertise in building scalable web applications and microservices. I have a strong background in Python and web development frameworks like Django. I enjoy solving complex problems and creating efficient solutions.</h3>
 
   <hr>
     
@@ -54,79 +52,46 @@ I'm a passionate software developer with expertise in building scalable web appl
 
 ## Tech Stack
 
-#### Languages
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
+#### Skills
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) 
+![Django Rest Framework](https://img.shields.io/badge/-Django%20Rest%20Framework-000?style=for-the-badge&logo=django-restframework)
+![Microservice](https://img.shields.io/badge/-Microservice-000?style=for-the-badge&logo=microservice)
+![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=redis)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?style=for-the-badge&logo=rabbitmq)
 
-#### JS Framework/Library
-![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/-ReduxJS-000?style=for-the-badge&logo=redux)
-![Redux Saga](https://img.shields.io/badge/-Redux%20Saga-000?style=for-the-badge&logo=reduxsaga)
-![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
- 
-#### CSS Framework/Library/Pre-processors
-![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-000?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
-![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-000?style=for-the-badge&logo=styledcomponents)
-![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
-![Framer](https://img.shields.io/badge/-Framer%20Motion-000?style=for-the-badge&logo=framer)
-![Ant Design](https://img.shields.io/badge/-Ant%20Design-000?style=for-the-badge&logo=antdesign)
-    
-#### Design/Visual Tools
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
-![Adobe XD](https://img.shields.io/badge/-AdobeXD-000?style=for-the-badge&logo=adobexd)
-![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 
-#### Database/State
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/-Supabase-000?style=for-the-badge&logo=supabase)
+#### Python Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Django Rest Framework](https://img.shields.io/badge/-Django%20Rest%20Framework-000?style=for-the-badge&logo=djangorestframework)
+![Flask](https://img.shields.io/badge/Flask-3670A0?style=for-the-badge&logo=flask&logoColor=white)
 
-#### Backend
-![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
-![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
-![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
-    
-#### API Testing Tools
-![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman)
-![ThunderClient](https://img.shields.io/badge/-ThunderClient-000?style=for-the-badge&logo=thunderclient)
 
-#### Web Hosting
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
-![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
-![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+#### Database
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-E3BC9A?style=for-the-badge&logo=postgresql&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+
+#### Web Sever
+![Apache](https://img.shields.io/badge/-Apache-000?style=for-the-badge&logo=apache)
+![Nginx](https://img.shields.io/badge/-Nginx-000?style=for-the-badge&logo=nginx)
 
 #### CI/CD
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
-
-#### Package Manager
-![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
-![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=gitlab)
-    
-#### DevOps Tools
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=AWS)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=kubernetes)
 
-#### Other Tools
-![Turborepo](https://img.shields.io/badge/-Turborepo-000?style=for-the-badge&logo=turborepo)
-![Vite](https://img.shields.io/badge/-Vite-000?style=for-the-badge&logo=vite)
-![Webpack](https://img.shields.io/badge/-Webpack-000?style=for-the-badge&logo=webpack)
-![Zod](https://img.shields.io/badge/-Zod-000?style=for-the-badge&logo=zod)
-![JWT](https://img.shields.io/badge/-jwt-000?style=for-the-badge&logo=jwt)
-![Razorpay](https://img.shields.io/badge/-razorpay-000?style=for-the-badge&logo=razorpay)
+#### Cloud Platform
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![E2E](https://img.shields.io/badge/-E2E-000?style=for-the-badge&logo=e2e)
+
+#### DevOps Tools
+![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=AWS)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=kubernetes)
     
 </div>
 
