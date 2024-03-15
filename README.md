@@ -52,11 +52,20 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=kubernetes)
 
-## Contact
-- LinkedIn: [deepanshu111](https://www.linkedin.com/in/deepanshu111/)
-- Email: [init.deepanshu@gmail.com](mailto:init.deepanshu@gmail.com)
-- Website: [Your Website](your-website)
     
+</div>
+## Contact
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/deepanshu111/">
+    <img src="https://img.shields.io/badge/-deepanshu111-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:init.deepanshu@gmail.com">
+    <img src="https://img.shields.io/badge/-init.deepanshu%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://your-website.com">
+    <img src="https://img.shields.io/badge/-Your%20Website-lightgrey?style=for-the-badge" alt="Website">
+  </a>
 </div>
 
 <hr>
