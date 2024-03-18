@@ -16,7 +16,7 @@
 #### Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) 
-![Microservice](https://img.shields.io/badge/-Microservice-000?style=for-the-badge&logo=microservice)
+![Microservices](https://img.shields.io/badge/-Microservices-000?style=for-the-badge&logo=microservices)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
