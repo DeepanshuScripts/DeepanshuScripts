@@ -91,11 +91,7 @@
   <div align="center">
     <img src="https://github.com/DeepanshuScripts/DeepanshuScripts/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
   </div>
-  
-  <!--  Commit Graph  -->
-  
-  [![Deepanshu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DeepanshuScripts&bg_color=040404&color=0ac0e0&line=ffffff&point=b4f123&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+ 
   <hr>
   
   
