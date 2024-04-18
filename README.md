@@ -86,26 +86,6 @@
   <hr>
   
   
-  <!--  The Rainbow Stats Bar  -->
-
-  <div align="center">
-    <img src="https://github.com/DeepanshuScripts/DeepanshuScripts/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  </div>
- 
-  <hr>
-  
-  
-  <!--  The contribution snake  -->
-  
-  <!--   ![Snake animation](https://github.com/DeepanshuScripts/DeepanshuScripts/blob/output/github-contribution-grid-snake.svg) -->
-  
-  <div align = "center">
-    <img src = "https://github.com/DeepanshuScripts/DeepanshuScripts/blob/output/github-contribution-grid-snake.svg" width = 100%/>
-  </div>
-  
-  <hr>
-  
-  
   <!--  Profile views  -->
   
   <div align="center">
